@@ -1,0 +1,6 @@
+@PredictionsCup_HostAddress = http://localhost:5291
+
+GET {{PredictionsCup_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
